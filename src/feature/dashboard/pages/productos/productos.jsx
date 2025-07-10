@@ -1,4 +1,4 @@
-// src/feature/dashboard/pages/productos/productos.jsx
+
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { getProductos, deleteProducto } from "../services/productosServices";
